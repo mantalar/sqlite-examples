@@ -1,5 +1,6 @@
 # sqlite-examples
-SQLite Exampes with Java and Android Studio
+
+Java, Android dan SQLite
 
 Project ini menggunakan jdk 18 dan menggunakan library java.time.LocalDate sehingga platform minimum yang dapat menjalankan adalah android O (API 26)
 
